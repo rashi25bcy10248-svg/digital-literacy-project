@@ -16,7 +16,7 @@ https://canva.link/hykwlk83tpqbdfh
 
 Module 2: Building My Professional IdentityIn this module, I transitioned from being a passive internet user to an active professional. I set up my foundational presence on platforms like LinkedIn and GitHub, ensuring my profiles reflect my current studies and future goals. This wasn’t just about making accounts; it was about learning how to present my academic journey to the world.Key Focus: Professional networking and establishing a permanent digital footprint.
 
-LINK:
+LINK:https://docs.google.com/document/d/1qP2oGhS3zik7nZyac4JwkautrxIYI2woiMR7DP5mYp8/edit?tab=t.0
 
 
 Module 3: Mastering Collaboration & CodingDigital literacy for an engineer means knowing how to code and how to work with a team remotely. I challenged myself with beginner coding problems on platforms like HackerRank and used Google Forms to build a quiz for my peers. This showed me how cloud-based tools can make academic collaboration much more efficient.Key Focus: Practical coding practice and mastering Google Workspace for teamwork.
